@@ -1,0 +1,5 @@
+doc_index/
+.env
+*.pdf
+__pycache__/
+*.pyc
